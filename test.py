@@ -24,4 +24,4 @@ descriptions:
 
 if __name__ == '__main__':
     print("Hello first python commit by vscode to GitHub")
-    print("I add another line here !")
+    print("I add another line here - and change it !")
