@@ -6,9 +6,9 @@
 # Copy Right Reserved to Author
 #
 '''
-module name:
+module name: nothing 
 main purpose:
-descriptions:
+descriptions: 
 '''
 #=======================================================================
 # imports
